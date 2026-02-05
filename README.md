@@ -6,8 +6,8 @@ Sou estudante de Ciência da Computação na **UECE**.
 
 ### 🧐 Sobre Mim
 
-- 🔭 Atualmente estou trabalhando com **Visão Computacional** e **Reconhecimento Facial**.
-- 📚 Estudando a fundo **Programação Competitiva**, **Machine Learning** e **.
+- 🔭 Atualmente estou trabalhando com **Visão Computacional**.
+- 📚 Estudando a fundo **Programação Competitiva**, **Machine Learning** e **Desenvolvimento de Software** em geral.
 - 🏆 Participo e estudo para as **Maratonas de Programação**.
 - 👯 Atualmente faço parte do projeto **PET Computação UECE** e do grupo **GESAD**.
 
