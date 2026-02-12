@@ -1,6 +1,6 @@
 # Olá, eu sou a Camila Pinheiro! 👋
 
-Sou estudante de Ciência da Computação na **UECE**.
+Sou estudante de Ciência da Computação na **UECE** e estou atualmente no 4o semestre.
 
 ---
 
