@@ -31,4 +31,4 @@ Sou estudante de Ciência da Computação na **UECE** e estou atualmente no 4o s
 
 ### 📫 Contato
 
-<a href="www.linkedin.com/in/diaspcamila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Camila Pinheiro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diaspcamila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Camila Pinheiro" height="30" width="40" /></a>
