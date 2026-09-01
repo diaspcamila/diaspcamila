@@ -1,15 +1,15 @@
-# Olá, eu sou a Camila Pinheiro! 👋
+# Olá, eu sou a Camila Pinheiro! \o/
 
-Sou estudante de Ciência da Computação na **UECE** e estou atualmente no 4o semestre.
+Sou estudante de Ciência da Computação na **UECE** e estou atualmente no 5o semestre.
 
 ---
 
-### 🧐 Sobre Mim
+### Sobre Mim XD 
 
-- 🔭 Atualmente estou trabalhando com **Visão Computacional**.
+- Atualmente estou trabalhando com **Visão Computacional**.
 - 📚 Estudando a fundo **Programação Competitiva**, **Machine Learning** e **Desenvolvimento de Software** em geral.
 - 🏆 Participo e estudo para as **Maratonas de Programação**.
-- 👯 Atualmente sou bolsista na **IDESCO** em um projeto do **Grupo de Engenharia de Software e Sistemas Autoadaptativos (GESAD)**.
+- Sou bolsista na **IDESCO** em um projeto do **Grupo de Engenharia de Software e Sistemas Autoadaptativos (GESAD)**.
 
 ---
 
